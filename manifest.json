@@ -1,0 +1,7 @@
+{
+    "name": "DevUtils",
+    "author": "Strencher",
+    "version": "1.0.0",
+    "description": "Gives you some developer utilities for discord.",
+    "entry": "./index.coffee"
+}

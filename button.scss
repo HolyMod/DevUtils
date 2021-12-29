@@ -1,0 +1,12 @@
+.dev-title-button {
+    color: #ddd;
+    
+    > div {
+        display: flex;
+    }
+
+    &:hover {
+        background-color: var(--background-modifier-hover);
+        color: var(--interactive-hover);
+    }
+}
